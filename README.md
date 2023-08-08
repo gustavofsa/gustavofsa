@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Gustavo Almeida 
 
-- 🔭 I’m currently working as Frontend Developer at [BEES Brasil](https://www.linkedin.com/company/beesbrasil)
+- 🔭 I’m a Frontend Developer looking for new opportunities
 - 🎓 I’m graduating in Computer Science at UFS;
 - 📚 I’m currently studying NextJS and GraphQL;
 - 🔧 Always looking forward to learn about the frontend ecosystem;
